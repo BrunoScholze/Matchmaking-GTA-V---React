@@ -1,12 +1,10 @@
 # GTA V Matchmaking - React
 
-## Vídeo de Demonstração (Clique)
-
-<img width="1677" alt="Screenshot 2024-12-07 at 21 24 28" src="https://github.com/user-attachments/assets/c5d3fcd5-23d5-4786-9acd-96b3fff6e17a">
+## Vídeo de Demonstração (Clique na imagem para assistir)
 
 <p align="center">
   <a href="https://youtu.be/ImfmCycZcY4">
-    <img src="https://img.youtube.com/vi/ImfmCycZcY4/0.jpg" alt="Vídeo de Demonstração" width="560" height="315" />
+    <img src="https://github.com/user-attachments/assets/c5d3fcd5-23d5-4786-9acd-96b3fff6e17a" alt="Imagem de Demonstração" width="800"/>
   </a>
 </p>
 
