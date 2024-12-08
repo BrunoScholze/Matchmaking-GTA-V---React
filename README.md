@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=ImfmCycZcY4
   </a>
 </p>
 
-Este projeto é uma aplicação de matchmaking para jogadores de **GTA V**, onde os jogadores são classificados e podem ser agrupados com base no seu desempenho. Funciona como um **lobby de jogo** (semelhante ao **Fortnite**), onde os jogadores podem se desafiar, competir e formar partidas equilibradas.
+Este projeto é uma aplicação de matchmaking PVP para jogadores de **GTA V**, onde os jogadores são classificados e podem ser agrupados com base no seu desempenho. Funciona como um **lobby de jogo** (semelhante ao **Fortnite**), onde os jogadores podem se desafiar, competir e formar partidas equilibradas.
 
 ## Funcionalidades
 
