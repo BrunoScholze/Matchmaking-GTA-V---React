@@ -15,3 +15,8 @@ Desenvolvida com base em um design elaborado no **Figma**, a interface é amigá
 - **Frontend**: React.js
 - **Design**: Figma
 - **Estilo**: CSS (ou Styled Components, conforme necessário)
+
+- ## Vídeo de Demonstração
+
+Clique [aqui para assistir ao vídeo](https://drive.google.com/file/d/1SzSR5uI4mJCIBkBE4vGBDRTjV-yn-Au7/view?usp=sharing).
+
